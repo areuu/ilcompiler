@@ -1,0 +1,12 @@
+lib: [
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/lib/fuzzilli_compiler/META"
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/lib/fuzzilli_compiler/dune-package"
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/lib/fuzzilli_compiler/opam"
+]
+bin: [
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/bin/fuzzilli_compiler"
+]
+doc: [
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/doc/fuzzilli_compiler/LICENSE"
+  "/home/uuu/dev/ilcompiler/_esy/default/store/b/fuzzilli__compiler-68248c3f/install/default/doc/fuzzilli_compiler/README.md"
+]
