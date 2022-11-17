@@ -22,7 +22,6 @@ let init_test_builder = ProgramBuilder.init_builder false false false
 (* Give the test interface access to the protobufs *)
 module Program_types = Program_types
 module Operations_types = Operations_types
-module Typesystem_types = Typesystem_types
 
 (* Make ProgramBuilder available to our test suite*)
 module ProgramBuilder = ProgramBuilder
