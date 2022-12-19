@@ -11,7 +11,7 @@ opam install base
 opam install core_kernel 
 opam install fileutils
 opam install dtoa
-opam install visitor
+opam install visitors
 
 opam pin add -y flow_parser https://github.com/facebook/flow.git\#v0.192.0
 
